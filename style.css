@@ -153,6 +153,16 @@ align-items: center;
     transform: scale(0.6);
 }
 
+footer{
+    text-align: center;
+    background-color: #111;
+    padding: 10px 0;
+}
+footer small{
+    font-size: 20px;
+    color: #fff;
+}
+
 @media (max-width: 991px){
     section{
         padding: 40px;
