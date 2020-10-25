@@ -279,4 +279,11 @@ footer small{
         justify-content: center;
         align-items: center;
     }
+    footer{
+        text-align: center;
+        padding: 5px 0;
+    }
+    footer small{
+        font-size: 15px;
+    }
 }
